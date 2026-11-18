@@ -1,0 +1,6 @@
+{
+  "AssemblyT2TReport.assembly_fasta": "gs://YOUR-BUCKET/HG002.hap1.fa.gz",
+  "AssemblyT2TReport.window": 20000,
+  "AssemblyT2TReport.min_telomere_repeats": 50,
+  "AssemblyT2TReport.min_contig_length": 5000000
+}

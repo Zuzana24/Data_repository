@@ -1,0 +1,7 @@
+version: 1.2
+workflows:
+  - name: AssemblyT2TReport
+    subclass: WDL
+    primaryDescriptorPath: /assembly_t2t_report/assembly_t2t_report.wdl
+    testParameterFiles:
+      - /assembly_t2t_report/assembly_t2t_report.inputs.json
